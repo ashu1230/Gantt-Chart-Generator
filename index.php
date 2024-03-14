@@ -1,3 +1,6 @@
+php -S localhost:8000
+
+
 <?php
 // Function to generate SVG for a task bar
 function generateTaskSVG($x, $y, $width, $height, $taskName) {
